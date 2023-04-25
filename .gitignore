@@ -1,0 +1,9 @@
+.terraform/*
+outputs/*
+*.tfstate
+*.tfstate.*
+
+*.tfvars
+
+# ignore crash logs
+crash.log
